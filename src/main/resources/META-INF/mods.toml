@@ -21,5 +21,11 @@ Coals Expand
     side="BOTH"
 
 
+[[dependencies.more_coals]]
+    modId="coals_crafting"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
 
 
