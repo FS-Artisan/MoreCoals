@@ -1,0 +1,359 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CopperCoal",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_coal"
+    },
+    {
+      "name": "CopperCoalFuel",
+      "type": "fuel",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_coal_fuel"
+    },
+    {
+      "name": "CoalsExpand",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coals_expand"
+    },
+    {
+      "name": "LeadCoal",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lead_coal"
+    },
+    {
+      "name": "EmeraldCoal",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_coal"
+    },
+    {
+      "name": "LapisCoal",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapis_coal"
+    },
+    {
+      "name": "QuartzCoal",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_coal"
+    },
+    {
+      "name": "RedstoneCoal",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_coal"
+    },
+    {
+      "name": "LeadCoalFuel",
+      "type": "fuel",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lead_coal_fuel"
+    },
+    {
+      "name": "EmeraldCoalFuel",
+      "type": "fuel",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_coal_fuel"
+    },
+    {
+      "name": "LapisCoalFuel",
+      "type": "fuel",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapis_coal_fuel"
+    },
+    {
+      "name": "QuartzCoalFuel",
+      "type": "fuel",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_coal_fuel"
+    },
+    {
+      "name": "RedstoneCoalFuel",
+      "type": "fuel",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_coal_fuel"
+    },
+    {
+      "name": "OsmiumCoal",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "osmium_coal"
+    },
+    {
+      "name": "OsmiumCoalFuel",
+      "type": "fuel",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "osmium_coal_fuel"
+    },
+    {
+      "name": "TinCoal",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_coal"
+    },
+    {
+      "name": "SteelCoal",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_coal"
+    },
+    {
+      "name": "BronzeCoal",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_coal"
+    },
+    {
+      "name": "TinCoalFuel",
+      "type": "fuel",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_coal_fuel"
+    },
+    {
+      "name": "SteelCoalFuel",
+      "type": "fuel",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_coal_fuel"
+    },
+    {
+      "name": "BronzeCoalFuel",
+      "type": "fuel",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_coal_fuel"
+    },
+    {
+      "name": "CoalCrystal",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coal_crystal"
+    },
+    {
+      "name": "HepatizonCoal",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hepatizon_coal"
+    },
+    {
+      "name": "HepatizonCoalFuel",
+      "type": "fuel",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hepatizon_coal_fuel"
+    },
+    {
+      "name": "CobaltCoal",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_coal"
+    },
+    {
+      "name": "CobaltCoalFuel",
+      "type": "fuel",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_coal_fuel"
+    },
+    {
+      "name": "ManyullynCoal",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manyullyn_coal"
+    },
+    {
+      "name": "ManyullynCoalFuel",
+      "type": "fuel",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manyullyn_coal_fuel"
+    },
+    {
+      "name": "PigironCoal",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pigiron_coal"
+    },
+    {
+      "name": "PigironCoalFuel",
+      "type": "fuel",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pigiron_coal_fuel"
+    },
+    {
+      "name": "SlimesteelCoal",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slimesteel_coal"
+    },
+    {
+      "name": "SlimesteelCoalFuel",
+      "type": "fuel",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slimesteel_coal_fuel"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.more_coals.quartz_coal": "Quartz Coal",
+      "item.more_coals.osmium_coal": "Osmium Coal",
+      "item.more_coals.lapis_coal": "Lapis Coal",
+      "item.more_coals.steel_coal": "Steel Coal",
+      "item.more_coals.tin_coal": "Tin Coal",
+      "item.more_coals.cobalt_coal": "Cobalt Coal",
+      "item.more_coals.emerald_coal": "Emerald Coal",
+      "item.more_coals.copper_coal": "Copper Coal",
+      "item.more_coals.pigiron_coal": "Pigiron Coal",
+      "item.more_coals.hepatizon_coal": "Hepatizon Coal",
+      "item.more_coals.slimesteel_coal": "Slimesteel Coal",
+      "item.more_coals.lead_coal": "Lead Coal",
+      "item.more_coals.manyullyn_coal": "Manyullyn Coal",
+      "item.more_coals.coal_crystal": "Coal Crystal",
+      "itemGroup.tabcoals_expand": "Coals Crafting-More Coals",
+      "item.more_coals.bronze_coal": "Bronze Coal",
+      "item.more_coals.redstone_coal": "Redstone Coal"
+    },
+    "zh_cn": {
+      "item.more_coals.quartz_coal": "Ê¯Ó¢ÃºÌ¿",
+      "item.more_coals.osmium_coal": "ï°ÃºÌ¿",
+      "item.more_coals.lapis_coal": "Çà½ðÊ¯ÃºÌ¿",
+      "item.more_coals.steel_coal": "¸ÖÃºÌ¿",
+      "item.more_coals.tin_coal": "ÎýÃºÌ¿",
+      "item.more_coals.cobalt_coal": "îÜÃºÌ¿",
+      "item.more_coals.emerald_coal": "ÂÌ±¦Ê¯ÃºÌ¿",
+      "item.more_coals.copper_coal": "Í­ÃºÌ¿",
+      "item.more_coals.pigiron_coal": "ÉúÌúÃºÌ¿",
+      "item.more_coals.hepatizon_coal": "ºÚÉ«¿ÆÁÖË¹ÇàÍ­ÃºÌ¿",
+      "item.more_coals.slimesteel_coal": "ð¤¸ÖÃºÌ¿",
+      "item.more_coals.lead_coal": "Ç¦ÃºÌ¿",
+      "item.more_coals.manyullyn_coal": "ÂêÁéÓñÃºÌ¿",
+      "item.more_coals.coal_crystal": "ÃºÌ¿½á¾§",
+      "itemGroup.tabcoals_expand": "ÃºÌ¿¹¤ÒÕ-¸ü¶àÃºÌ¿",
+      "item.more_coals.bronze_coal": "ÇàÍ­ÃºÌ¿",
+      "item.more_coals.redstone_coal": "ºìÊ¯ÃºÌ¿"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "more_coals",
+    "modName": "More Coals",
+    "version": "1.3.3",
+    "description": "Coals Expand",
+    "author": "»¯Áú·ÙÌì",
+    "websiteURL": "https://www.mcmod.cn/class/3733.html",
+    "license": "Not specified",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "https://www.mcmod.cn/class/3733.html",
+    "modElementsPackage": "coal_crafting.more_coals",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

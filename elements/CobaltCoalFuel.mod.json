@@ -1,0 +1,10 @@
+{
+  "_fv": 18,
+  "_type": "fuel",
+  "definition": {
+    "power": 4400,
+    "block": {
+      "value": "CUSTOM:CobaltCoal"
+    }
+  }
+}

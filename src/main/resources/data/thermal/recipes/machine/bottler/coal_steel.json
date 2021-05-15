@@ -1,0 +1,17 @@
+{
+    "type": "thermal:bottler",
+    "ingredient": [
+      {
+        "item": "coals_crafting:coal_filling_frame"
+      },
+      {
+        "fluid": "tconstruct:molten_steel",
+        "amount": 500
+      }
+    ],
+    "result": [
+      {
+        "item": "more_coals:steel_coal"
+      }
+    ]
+  }

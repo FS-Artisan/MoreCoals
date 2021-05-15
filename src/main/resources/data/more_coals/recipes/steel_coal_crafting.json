@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " 1 ",
+        "101",
+        " 1 "
+    ],
+    "key": {
+        "1": {
+            "tag": "forge:ingots/steel"
+        },
+        "0": {
+            "item": "coals_crafting:coal_filling_frame"
+        }
+    },
+    "result": {
+        "item": "more_coals:steel_coal"
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Coals Crafting-More Coals",
+    "icon": {
+      "value": "CUSTOM:CoalCrystal"
+    },
+    "showSearch": false
+  }
+}

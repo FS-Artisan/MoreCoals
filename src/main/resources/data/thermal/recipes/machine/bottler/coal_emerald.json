@@ -1,0 +1,17 @@
+{
+    "type": "thermal:bottler",
+    "ingredient": [
+      {
+        "item": "coals_crafting:coal_filling_frame"
+      },
+      {
+        "fluid": "tconstruct:molten_emerald",
+        "amount": 500
+      }
+    ],
+    "result": [
+      {
+        "item": "more_coals:emerald_coal"
+      }
+    ]
+  }

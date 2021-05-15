@@ -1,0 +1,19 @@
+{
+  "item.more_coals.quartz_coal": "石英煤炭",
+  "item.more_coals.osmium_coal": "锇煤炭",
+  "item.more_coals.lapis_coal": "青金石煤炭",
+  "item.more_coals.steel_coal": "钢煤炭",
+  "item.more_coals.tin_coal": "锡煤炭",
+  "item.more_coals.cobalt_coal": "钴煤炭",
+  "item.more_coals.emerald_coal": "绿宝石煤炭",
+  "item.more_coals.copper_coal": "铜煤炭",
+  "item.more_coals.pigiron_coal": "生铁煤炭",
+  "item.more_coals.hepatizon_coal": "黑色科林斯青铜煤炭",
+  "item.more_coals.slimesteel_coal": "黏钢煤炭",
+  "item.more_coals.lead_coal": "铅煤炭",
+  "item.more_coals.manyullyn_coal": "玛灵玉煤炭",
+  "item.more_coals.coal_crystal": "煤炭结晶",
+  "itemGroup.tabcoals_expand": "煤炭工艺-更多煤炭",
+  "item.more_coals.bronze_coal": "青铜煤炭",
+  "item.more_coals.redstone_coal": "红石煤炭"
+}

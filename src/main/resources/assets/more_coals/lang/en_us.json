@@ -1,0 +1,19 @@
+{
+  "item.more_coals.quartz_coal": "Quartz Coal",
+  "item.more_coals.osmium_coal": "Osmium Coal",
+  "item.more_coals.lapis_coal": "Lapis Coal",
+  "item.more_coals.steel_coal": "Steel Coal",
+  "item.more_coals.tin_coal": "Tin Coal",
+  "item.more_coals.cobalt_coal": "Cobalt Coal",
+  "item.more_coals.emerald_coal": "Emerald Coal",
+  "item.more_coals.copper_coal": "Copper Coal",
+  "item.more_coals.pigiron_coal": "Pigiron Coal",
+  "item.more_coals.hepatizon_coal": "Hepatizon Coal",
+  "item.more_coals.slimesteel_coal": "Slimesteel Coal",
+  "item.more_coals.lead_coal": "Lead Coal",
+  "item.more_coals.manyullyn_coal": "Manyullyn Coal",
+  "item.more_coals.coal_crystal": "Coal Crystal",
+  "itemGroup.tabcoals_expand": "Coals Crafting-More Coals",
+  "item.more_coals.bronze_coal": "Bronze Coal",
+  "item.more_coals.redstone_coal": "Redstone Coal"
+}

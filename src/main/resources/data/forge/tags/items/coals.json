@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+      "more_coals:copper_coal",
+      "more_coals:bronze_coal",
+      "more_coals:lead_coal",
+      "more_coals:emerald_coal",
+      "more_coals:lapis_coal",
+      "more_coals:quartz_coal",
+      "more_coals:redstone_coal",
+      "more_coals:osmium_coal",
+      "more_coals:tin_coal",
+      "more_coals:steel_coal"
+    ]
+  }
