@@ -288,6 +288,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "slimesteel_coal_fuel"
+    },
+    {
+      "name": "FlintCoal",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_coal"
+    },
+    {
+      "name": "FlintCoalFuel",
+      "type": "fuel",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_coal_fuel"
     }
   ],
   "variable_elements": [],
@@ -309,6 +327,7 @@
       "item.more_coals.manyullyn_coal": "Manyullyn Coal",
       "item.more_coals.coal_crystal": "Coal Crystal",
       "itemGroup.tabcoals_expand": "Coals Crafting-More Coals",
+      "item.more_coals.flint_coal": "Flint Coal",
       "item.more_coals.bronze_coal": "Bronze Coal",
       "item.more_coals.redstone_coal": "Redstone Coal"
     },
@@ -325,9 +344,10 @@
       "item.more_coals.hepatizon_coal": "ºÚÉ«¿ÆÁÖË¹ÇàÍ­ÃºÌ¿",
       "item.more_coals.slimesteel_coal": "ð¤¸ÖÃºÌ¿",
       "item.more_coals.lead_coal": "Ç¦ÃºÌ¿",
-      "item.more_coals.manyullyn_coal": "ÂêÁéÓñÃºÌ¿",
+      "item.more_coals.manyullyn_coal": "ÂêÓñÁéÃºÌ¿",
       "item.more_coals.coal_crystal": "ÃºÌ¿½á¾§",
       "itemGroup.tabcoals_expand": "ÃºÌ¿¹¤ÒÕ-¸ü¶àÃºÌ¿",
+      "item.more_coals.flint_coal": "ìÝÊ¯ÃºÌ¿",
       "item.more_coals.bronze_coal": "ÇàÍ­ÃºÌ¿",
       "item.more_coals.redstone_coal": "ºìÊ¯ÃºÌ¿"
     }
@@ -346,7 +366,9 @@
     "license": "Not specified",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
-    "requiredMods": [],
+    "requiredMods": [
+      "coals_crafting"
+    ],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
